@@ -37,9 +37,12 @@ PhoBERT-Text-Detection/
 │── requirements.txt    # Thư viện cần cài đặt
 
  <h2>▶️Cách chạy demo</h2>
-git clone https://github.com/<tenuser>/PhoBERT-Text-Detection.git
-cd PhoBERT-Text-Detection
+git clone ""https://github.com/Tiensohot/PhoBERT-Vietnamese-Text-Detection/""
+
+cd PhoBERT-Vietnamese-Text-Detection
+
 pip install -r requirements.txt
+
 python app.py
 
 Mở trình duyệt tại: http://127.0.0.1:5000
@@ -69,4 +72,4 @@ Sự phối hợp ăn ý là chìa khóa giúp đồ án hoàn thành đúng ti�
 
  <h2>Lời cảm ơn</h2>
 
-Xin cảm ơn TS. Nguyễn Mạnh Cường đã tận tình hướng dẫn và hỗ trợ nhóm trong suốt quá trình thực hiện đồ án.
+Chúng em xin cảm ơn TS. Nguyễn Mạnh Cường đã tận tình hướng dẫn và hỗ trợ nhóm trong suốt quá trình thực hiện đồ án.
