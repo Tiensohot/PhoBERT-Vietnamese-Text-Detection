@@ -38,7 +38,7 @@ PhoBERT-Text-Detection/
 
  <h2>▶️Cách chạy demo</h2>
 git clone ""https://github.com/Tiensohot/PhoBERT-Vietnamese-Text-Detection/""
-
+download file "best_model.pt" tại link: https://drive.google.com/file/d/1ucctLZc7JNaRlUsEdXMJS-o8k_CmAwyU/view?usp=sharing
 cd PhoBERT-Vietnamese-Text-Detection
 
 pip install -r requirements.txt
