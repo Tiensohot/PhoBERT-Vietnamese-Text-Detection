@@ -1,6 +1,6 @@
-🚀 **Nhận diện văn bản tiếng Việt sinh bởi mô hình ngôn ngữ lớn (LLM) sử dụng PhoBERT và học sâu**
+ <h1>🚀Nhận diện văn bản tiếng Việt sinh bởi mô hình ngôn ngữ lớn (LLM) sử dụng PhoBERT và học sâu</h1>
 
-📌 **Giới thiệu**
+ <h2>📌Giới thiệu</h2>
 
 Đây là đồ án chuyên ngành thuộc Ngành Khoa học Máy tính – Trường Đại học Công nghiệp Hà Nội.
 Đề tài tập trung xây dựng hệ thống có khả năng phân biệt văn bản do con người viết và văn bản sinh ra bởi AI (Large Language Models – LLM).
@@ -12,7 +12,7 @@ Sản phẩm cuối cùng gồm:
 
 🌐 Ứng dụng web demo với Flask + HTML/CSS/JS
 
-🛠️ **Công nghệ sử dụng**
+ <h2>🛠️Công nghệ sử dụng</h2>
 
 Áp dụng kiến thức từ nhiều môn học trong chương trình:
 
@@ -26,7 +26,7 @@ Kỹ thuật phần mềm & Lập trình Web → Flask, HTML, CSS, JS
 
 Khoa học dữ liệu → xử lý và gán nhãn tập dữ liệu (1350 mẫu Human/AI)
 
-📂 **Cấu trúc thư mục**
+ <h2>📂Cấu trúc thư mục</h2>
 PhoBERT-Text-Detection/
 │── app.py              # Flask server (chạy demo)
 │── model.py            # Định nghĩa PhoBERT + classifier
@@ -36,7 +36,7 @@ PhoBERT-Text-Detection/
 │   └── index.html      # Giao diện demo web
 │── requirements.txt    # Thư viện cần cài đặt
 
-▶️ **Cách chạy demo**
+ <h2>▶️Cách chạy demo</h2>
 git clone https://github.com/<tenuser>/PhoBERT-Text-Detection.git
 cd PhoBERT-Text-Detection
 pip install -r requirements.txt
@@ -46,7 +46,7 @@ Mở trình duyệt tại: http://127.0.0.1:5000
 
 → Dán văn bản hoặc upload file .txt/.docx để phân tích.
 
-📊 **Kết quả nổi bật**
+ <h2>📊Kết quả nổi bật</h2>
 
 ✅ Accuracy: 99.6%
 
@@ -54,7 +54,7 @@ Mở trình duyệt tại: http://127.0.0.1:5000
 
 🔥 Vượt trội hơn TF-IDF + SVM và Rule-based
 
-👨‍👩‍👦‍👦 **Đóng góp của nhóm**
+<h2>👨‍👩‍👦‍👦Đóng góp của nhóm</h2>
 
 Đồ án là thành quả teamwork nghiêm túc của Nhóm 09:
 
@@ -67,6 +67,6 @@ Bùi Đức Tiến – Xây dựng giao diện demo, tích hợp hệ thống
 Chúng tôi đã cùng nhau làm việc từ tìm hiểu lý thuyết → triển khai mô hình → đánh giá → xây dựng demo → viết báo cáo.
 Sự phối hợp ăn ý là chìa khóa giúp đồ án hoàn thành đúng tiến độ và đạt chất lượng cao.
 
-**Lời cảm ơn**
+ <h2>Lời cảm ơn</h2>
 
 Xin cảm ơn TS. Nguyễn Mạnh Cường đã tận tình hướng dẫn và hỗ trợ nhóm trong suốt quá trình thực hiện đồ án.
